@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVOn", "TVOn\TVOn.csproj", "{FBCD2C95-D09B-475D-9A0C-0D345A250EAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVOff", "TVOff\TVOff.csproj", "{7428D853-53ED-4368-BD1B-850F4D1D57AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMTester", "COMTester\COMTester.csproj", "{D7F56160-7B56-4A1F-8EF2-31DD8FA267F9}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBCD2C95-D09B-475D-9A0C-0D345A250EAB}.Debug|x86.ActiveCfg = Debug|x86
+		{FBCD2C95-D09B-475D-9A0C-0D345A250EAB}.Debug|x86.Build.0 = Debug|x86
+		{FBCD2C95-D09B-475D-9A0C-0D345A250EAB}.Release|x86.ActiveCfg = Release|x86
+		{FBCD2C95-D09B-475D-9A0C-0D345A250EAB}.Release|x86.Build.0 = Release|x86
+		{7428D853-53ED-4368-BD1B-850F4D1D57AC}.Debug|x86.ActiveCfg = Debug|x86
+		{7428D853-53ED-4368-BD1B-850F4D1D57AC}.Debug|x86.Build.0 = Debug|x86
+		{7428D853-53ED-4368-BD1B-850F4D1D57AC}.Release|x86.ActiveCfg = Release|x86
+		{7428D853-53ED-4368-BD1B-850F4D1D57AC}.Release|x86.Build.0 = Release|x86
+		{D7F56160-7B56-4A1F-8EF2-31DD8FA267F9}.Debug|x86.ActiveCfg = Debug|x86
+		{D7F56160-7B56-4A1F-8EF2-31DD8FA267F9}.Debug|x86.Build.0 = Debug|x86
+		{D7F56160-7B56-4A1F-8EF2-31DD8FA267F9}.Release|x86.ActiveCfg = Release|x86
+		{D7F56160-7B56-4A1F-8EF2-31DD8FA267F9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
